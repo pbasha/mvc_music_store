@@ -1,1 +1,5 @@
 *.suo
+packages/*
+MVC_music_store/packages/*
+bin
+obj
